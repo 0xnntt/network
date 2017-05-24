@@ -1,3 +1,4 @@
+# it is not my scrip. i only use it .
 function Global:Ping-IPRange {
     <#
     .SYNOPSIS
