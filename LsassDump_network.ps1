@@ -1,5 +1,6 @@
 # author : 0xnnt and Google :)
 # date   : May 2015
+# this little script will collect all lsass.exe dump files from remote computers.
 # CONSTANTS
 $pdump = "C:\procdump.exe"
 $username = "domain\username"
